@@ -1,2 +1,20 @@
+# Processing
+*.class
+applet/
+out/
+build/
+*.log
+
+# Max/MSP
+*.mxf
+*.tmp
+*.bak
+*.autosave
+*.maxsnap
+
+# macOS
 .DS_Store
-**/.DS_Store
+
+# Divers
+Thumbs.db
+
