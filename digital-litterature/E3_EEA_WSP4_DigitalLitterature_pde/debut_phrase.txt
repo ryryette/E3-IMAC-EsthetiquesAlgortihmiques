@@ -1,0 +1,10 @@
+1, calm;
+2, brave;
+3, gentle;
+4, confident;
+5, worthy;
+6, focused;
+7, creative;
+8, resilient;
+9, patient;
+10, radiant;

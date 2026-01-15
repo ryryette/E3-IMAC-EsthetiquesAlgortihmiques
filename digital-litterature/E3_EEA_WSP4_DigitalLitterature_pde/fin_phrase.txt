@@ -1,0 +1,10 @@
+1, energy;
+2, joy;
+3, clarity;
+4, strength;
+5, peace;
+6, kindness;
+7, progress;
+8, balance;
+9, courage;
+10, gratitude;
